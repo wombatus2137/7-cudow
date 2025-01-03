@@ -1,2 +1,2 @@
 # 7 cudów
-School project - website about the seven wonders
+School project - Responsywna strona 7 cudów
